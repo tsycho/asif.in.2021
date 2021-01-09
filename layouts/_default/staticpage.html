@@ -1,10 +1,11 @@
 {{ partial "header" . }}
 
-<br/>
-<br/>
-<br/>
-<br/>
+<main>
 
-<section>
-  {{ .Content }}
-</section>
+    <div>
+        <h2>{{ .Title }}</h2>
+    </div>
+
+    <div align="start" class="content">{{ .Content }}</div>
+
+</main>
