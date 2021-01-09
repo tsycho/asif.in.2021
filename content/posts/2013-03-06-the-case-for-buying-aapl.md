@@ -1,7 +1,7 @@
 ---
 title: "The case for buying AAPL (as of 3/5/13)"
 date: 2013-03-22
-draft: false
+<!-- tags: finance, Apple -->
 ---
 
 _**Disclaimers**: (1) I own some AAPL stock. (2) I have no inside information on Apple, Google, Microsoft, Amazon or any other company mentioned below. (3) This blog post should NOT be considered as investment advice._
