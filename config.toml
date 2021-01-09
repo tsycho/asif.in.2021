@@ -1,4 +1,4 @@
-baseURL = "www.asif.in/"
+baseURL = "https://asifdotin.netlify.app/"
 languageCode = "en-us"
 title = "Asif"
 theme = "minimal"
