@@ -15,6 +15,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    copyright = "&copy; asif.in (2012 to &infin;)"
 
 [[menu.main]]
     url = "/"
