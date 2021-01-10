@@ -8,7 +8,7 @@ googleAnalytics = "UA-18036429-2"
 
 [params]
     author = "Asif"
-    description = "Think. Do."
+    description = "Think. Write. Do."
     accent = "red"
     showBorder = true
     backgroundColor = "white"
