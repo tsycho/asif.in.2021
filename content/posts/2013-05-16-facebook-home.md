@@ -1,7 +1,7 @@
 ---
 title: Facebook Home
 date: 2013-05-16
-<!-- tags: facebook, technical -->
+tags: ["tech", "facebook"]
 ---
 
 Over the past few weeks, I have been seeing a lot of posts about how 

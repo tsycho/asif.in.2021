@@ -1,7 +1,7 @@
 ---
 title: "Google OAuth and Rails"
 date: 2012-03-03
-<!-- tags: oauth, rails, gmail, technical -->
+tags: ["rails", "dev"]
 ---
 
 While building [InboxSlasher](http://www.inboxslasher.com), I needed to enable users to give me access to their Gmail accounts via OAuth. The [gmail_xoauth](http://github.com/nfo/gmail_xoauth) gem helped me do what I needed once the authentication was set up, but referred to [Google's python code](http://code.google.com/p/google-mail-xoauth-tools/wiki/XoauthDotPyRunThrough) for generating the actual OAuth tokens. Since I obviously couldn't use that from within my Rails app, I translated the Python code to Ruby as shown below.

@@ -1,6 +1,7 @@
 ---
 title: "Book Review: The Metamorphosis of Prime Intellect"
 date: 2017-08-13
+tags: ["books"]
 ---
 
 ### Verdict

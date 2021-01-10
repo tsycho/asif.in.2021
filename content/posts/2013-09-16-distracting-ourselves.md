@@ -1,7 +1,7 @@
 ---
 title: Distracting ourselves
 date: 2013-09-16
-<!-- tags: quotes, life, philosophy -->
+tags: ["philosophy", "quotes"]
 ---
 
 I loved this quote by Woody Allen...

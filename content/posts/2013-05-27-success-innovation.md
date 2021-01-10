@@ -1,7 +1,7 @@
 ---
 title: Success and Innovation
 date: 2013-05-27
-<!-- tags: quotes, startups -->
+tags: ["tech", "quotes"]
 ---
 
 In general, I find that online communities (particularly HN, which is what I frequent) are often extremely negative about new ideas or changes to existing products. And I find that quite depressing and sad, but that's a topic for a separate post.
